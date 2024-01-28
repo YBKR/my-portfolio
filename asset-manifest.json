@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/YBKR/my-portfolio/static/css/main.746390a5.css",
+    "main.js": "/YBKR/my-portfolio/static/js/main.622e143e.js",
+    "static/js/787.7da95b79.chunk.js": "/YBKR/my-portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/photoAnime2.gif": "/YBKR/my-portfolio/static/media/photoAnime2.7b88a28cddaff95eb989.gif",
+    "static/media/portfolio.png": "/YBKR/my-portfolio/static/media/portfolio.0aad97b26397b40e9254.png",
+    "static/media/reactlogo.png": "/YBKR/my-portfolio/static/media/reactlogo.740642a824493a6b4453.png",
+    "static/media/pic.png": "/YBKR/my-portfolio/static/media/pic.9304697e34d19d6fa4fe.png",
+    "static/media/Drum-beate.png": "/YBKR/my-portfolio/static/media/Drum-beate.a1191255d2cd16d56d49.png",
+    "static/media/2Desktop.jpeg": "/YBKR/my-portfolio/static/media/2Desktop.63365168365746b752fa.jpeg",
+    "static/media/car.jpg": "/YBKR/my-portfolio/static/media/car.8a6942db9946cd4d5349.jpg",
+    "static/media/Google-clone.png": "/YBKR/my-portfolio/static/media/Google-clone.9dcf96443593480df735.png",
+    "static/media/photoAnime.gif": "/YBKR/my-portfolio/static/media/photoAnime.c3355aa5f62b94227990.gif",
+    "static/media/reactwithtab.jpg": "/YBKR/my-portfolio/static/media/reactwithtab.0f734c93eba9cc70af1a.jpg",
+    "static/media/Brand.png": "/YBKR/my-portfolio/static/media/Brand.a78eac6f487a035e732e.png",
+    "static/media/photo1.png": "/YBKR/my-portfolio/static/media/photo1.fc047fe4a4ce1f89a23c.png",
+    "index.html": "/YBKR/my-portfolio/index.html",
+    "main.746390a5.css.map": "/YBKR/my-portfolio/static/css/main.746390a5.css.map",
+    "main.622e143e.js.map": "/YBKR/my-portfolio/static/js/main.622e143e.js.map",
+    "787.7da95b79.chunk.js.map": "/YBKR/my-portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.746390a5.css",
+    "static/js/main.622e143e.js"
+  ]
+}
